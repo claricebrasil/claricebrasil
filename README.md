@@ -14,7 +14,7 @@ Gosto de devolver livremente aquilo que aprendo, dessa forma comecei a escrever 
 #### Já pulei de bungeejump quando tinha 14 anos;
 #### Viajei sozinha pra California;
 #### Tenho paixão por documentários sobre o espaço e sobre investigação;
-#### Café e gatos são minhas companhias; 
+#### Café e gatos são meus amores ❤; 
 
 
 ### 💪 Objetivos 2021:
