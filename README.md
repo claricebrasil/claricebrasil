@@ -1,5 +1,3 @@
-![Header](https://user-images.githubusercontent.com/80365844/126723934-59794ca8-c8f7-41c9-aabb-4ff0cb8baa41.png)
-
 ## Hello, world! 👋
 
 #### < me chamo Clarice, sou programadora Fullstack Júnior com objetivo em fortalecer especialmente minhas habilidades em Front-end. Sou uma pessoa apaixonada por aventura, desafios, viagens e trocar conhecimentos. Busco estar em constante aprendizado e crescimento. Sou formada em comunicação e acredito no poder que a tecnologia e a comunicação têm de mudar o mundo 🌎. /> 
@@ -9,17 +7,9 @@
 #### ![image](https://user-images.githubusercontent.com/80365844/126727223-4fd2f682-2526-41cd-ab46-837d94417d7d.png)
 Gosto de devolver livremente aquilo que aprendo, dessa forma comecei a escrever sobre o que tenho aprendido. Você pode conferir aqui: https://medium.com/@claricebrasil
 
-
-### 😂 Fun facts:
-#### Já pulei de bungeejump quando tinha 14 anos;
-#### Viajei sozinha pra California;
-#### Tenho paixão por documentários sobre o espaço e sobre investigação;
-#### Café e gatos são meus amores ❤; 
-
-
-### 💪 Objetivos 2021:
+### 💪 Objetivos:
 #### Aprender uma nova linguagem de programação;
-#### Desenvolver uma plataforma que contribua com a comunidade LGBTQIA+;
+#### Contribuir com comunidades que não tenham acesso à tecnologia;
 #### Enfrentar um novo desafio;
 
 
