@@ -1,5 +1,5 @@
 ### 👋 Olá, sou Clarice Brasil!
-Desenvolvedora Front-End com 3 anos de experiência em criar interfaces web eficientes e responsivas. Tenho um foco especial em React, TypeScript, JavaScript, e CSS, além de uma paixão por clean code e práticas modernas de desenvolvimento. Ao longo da minha carreira, trabalhei em projetos que resultaram em economia de custos operacionais e melhorias significativas na autonomia dos clientes.
+Desenvolvedora Front-End com 3 anos de experiência em criar interfaces web eficientes e responsivas. Tenho um foco especial em React e TypeScript. Ao longo da minha carreira, trabalhei em projetos que resultaram em economia de custos operacionais e melhorias significativas na autonomia dos clientes.
 
 Adoro transformar desafios complexos em soluções intuitivas e escaláveis, sempre com uma atenção especial à performance e à experiência do usuário. Estou sempre em busca de aprendizado e gosto de colaborar em equipes diversas, onde posso trocar conhecimentos e ajudar a elevar o nível dos projetos.
 
